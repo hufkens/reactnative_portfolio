@@ -34,7 +34,7 @@ class AppList extends Component {
                             album={item} 
                             onPress={() => {
                                 this.props.selectLibrary(item.id);
-                                this.props.navigation.navigate('Details');
+                                this.props.navigation.navigate('Details', { title: item.name });
                             }} 
                         />                    
                     )}

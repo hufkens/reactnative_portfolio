@@ -4,49 +4,11 @@ import {
     View, 
     Image, 
     Text, 
-    TouchableWithoutFeedback, 
-    TouchableOpacity, 
-    Linking,
-    LayoutAnimation
+    TouchableWithoutFeedback
 } from 'react-native';
 import CardSection from './CardSection';
-import Button from './Button';
 
-class ListItem extends Component {
-
-    componentWillUpdate() {
-        LayoutAnimation.easeInEaseOut();
-    }    
-
-    renderDescription() {
-        const { album, expanded } = this.props;
-        const { thumbnailVideoStyle, bodyContentStyle } = styles;
-
-        if (expanded) {
-            return (
-                <View style={bodyContentStyle}>
-                    <CardSection>
-                        <TouchableOpacity style={thumbnailVideoStyle} >
-                            <Image 
-                                style={thumbnailVideoStyle} 
-                                source={{ uri: album.iphone.video_thumb }} 
-                            />
-                        </TouchableOpacity>
-                    </CardSection>                    
-                    <CardSection>
-                        <Button 
-                            onPress={() => Linking.openURL(album.link_app)}
-                            buttonText={'Open'} 
-                        />
-                        <Button 
-                            onPress={() => Linking.openURL(album.link_web)}
-                            buttonText={'App Store'} 
-                        />                
-                    </CardSection>     
-                </View>      
-            );
-        }
-    }
+class ListItem extends Component {    
 
     render() {     
         const { album, onPress } = this.props;
@@ -80,38 +42,15 @@ class ListItem extends Component {
     }    
 }
 
-function mapStateToProps(state, ownProps) {
-    const expanded = state.selectedId === ownProps.album.id;
-    return {         
-        expanded
-    };
-}
-
 const styles = {
     cardSectionStyle: {
         borderBottomWidth: 1,
         borderBottomColor: '#c43616'
     },
-    bodyContentStyle: {    
-        backgroundColor: '#c43616',
-        paddingTop: 8,
-        paddingBottom: 8
-    },
     headerContentStyle: {    
         flexDirection: 'column',
         justifyContent: 'flex-start',
         paddingTop: 8
-    },
-    thumbnailVideoStyle: {    
-        flex: 1,
-        height: 204, 
-        marginRight: 2,
-        marginLeft: 2, 
-        borderRadius: 5
-    },
-    thumbnailVideoContainerStyle: {    
-        justifyContent: 'center',
-        alignItems: 'center'
     },
     thumbnailStyle: {    
         width: 60,
@@ -132,4 +71,4 @@ const styles = {
     }
 };
 
-export default connect(mapStateToProps)(ListItem);
+export default connect()(ListItem);
