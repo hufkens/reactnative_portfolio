@@ -12,7 +12,7 @@ import {
 import CardSection from './CardSection';
 import Button from './Button';
 
-class AlbumListItem extends Component {
+class ListItem extends Component {
 
     componentWillUpdate() {
         LayoutAnimation.easeInEaseOut();
@@ -132,4 +132,4 @@ const styles = {
     }
 };
 
-export default connect(mapStateToProps)(AlbumListItem);
+export default connect(mapStateToProps)(ListItem);

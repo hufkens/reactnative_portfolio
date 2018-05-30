@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { View, Text } from 'react-native';
 import { connect } from 'react-redux';
 
-class AlbumDetail extends Component { 
+class AppDetail extends Component { 
 
     static navigationOptions = {
         title: 'Detail'
@@ -24,4 +24,4 @@ function mapStateToProps(state) {
     };
 }
 
-export default connect(mapStateToProps)(AlbumDetail);
+export default connect(mapStateToProps)(AppDetail);

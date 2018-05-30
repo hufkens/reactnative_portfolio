@@ -9,8 +9,8 @@ import { Provider } from 'react-redux';
 import { createStore } from 'redux';
 import { createStackNavigator } from 'react-navigation';
 
-import AlbumList from './src/components/AlbumList';
-import AlbumDetail from './src/components/AlbumDetail';
+import AppList from './src/screens/AppList';
+import AppDetail from './src/screens/AppDetail';
 
 import reducers from './src/reducers';
 
@@ -26,8 +26,8 @@ export default class App extends Component {
 
 const RootStack = createStackNavigator(
   {
-    Home: AlbumList,
-    Details: AlbumDetail
+    Home: AppList,
+    Details: AppDetail
   },
   {
     initialRouteName: 'Home',

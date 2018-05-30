@@ -2,10 +2,10 @@ import React, { Component } from 'react';
 import { FlatList, View } from 'react-native';
 import { connect } from 'react-redux';
 
-import AlbumListItem from './AlbumListItem';
+import ListItem from './../components/ListItem';
 import * as actions from './../actions';
 
-class AlbumList extends Component { 
+class AppList extends Component { 
 
     static navigationOptions = {
         title: 'Wee Taps',
@@ -30,7 +30,7 @@ class AlbumList extends Component {
                     data={libraries} 
                     keyExtractor={item => item.id}
                     renderItem={({ item }) => (
-                        <AlbumListItem 
+                        <ListItem 
                             album={item} 
                             onPress={() => {
                                 this.props.selectLibrary(item.id);
@@ -58,4 +58,4 @@ const styles = {
     }
   };  
 
-export default connect(mapStateToProps, actions)(AlbumList);
+export default connect(mapStateToProps, actions)(AppList);
