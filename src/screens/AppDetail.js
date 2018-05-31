@@ -38,11 +38,23 @@ class AppDetail extends Component {
                 />
                 <View style={cardStyle}>
                     <CardSection>
-                        <TouchableOpacity style={thumbnailVideoStyle} >
+                        <TouchableOpacity 
+                            style={thumbnailVideoStyle} 
+                            onPress={() => {         
+                                console.log('pressed');                  
+                                this.player.presentFullscreenPlayer(true); 
+                            }}
+                        >
                             <Video 
+                                ref={(ref) => {
+                                    this.player = ref;
+                                }}   
+                                resizeMode='cover'
                                 style={thumbnailVideoStyle}
                                 poster={album.iphone.video_thumb}
-                                source={{ uri: album.iphone.video_url }} 
+                                source={{ uri: album.iphone.video_url }}
+                                onBuffer={() => console.log('Buffering')} 
+                                onError={() => console.log(this.videoError)} 
                             />
                         </TouchableOpacity>
                     </CardSection>                    
