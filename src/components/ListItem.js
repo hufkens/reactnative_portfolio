@@ -1,10 +1,10 @@
-import React, { Component } from 'react';
+import React from 'react';
 import { connect } from 'react-redux';
 import { View, Image, Text, TouchableWithoutFeedback } from 'react-native';
 import CardSection from './CardSection';
 
 const ListItem = props => {
-  const { album, onPress } = this.props;
+  const { album, onPress } = props;
   const { headerContentStyle, thumbnailStyle, textStyle, titleStyle, thumbnailContainerStyle, cardSectionStyle } = styles;
 
   return (

@@ -21,7 +21,6 @@ class AppDetail extends Component {
             <TouchableOpacity
               style={thumbnailVideoStyle}
               onPress={() => {
-                console.log('pressed');
                 this.player.presentFullscreenPlayer(true);
               }}
             >
@@ -33,10 +32,6 @@ class AppDetail extends Component {
                 style={thumbnailVideoStyle}
                 poster={album.iphone.video_thumb}
                 source={{ uri: album.iphone.video_url }}
-                onBuffer={() => console.log('onBuffer')}
-                onLoadStart={() => console.log('onLoadStart')}
-                onLoad={() => console.log('onLoad')}
-                onError={() => console.log(this.videoError)}
               />
             </TouchableOpacity>
           </CardSection>
