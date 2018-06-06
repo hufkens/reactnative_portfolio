@@ -1,228 +1,227 @@
-[  
-    {
-        "id": "1104690668",
-        "name": "Bit - The Time Travelling Caveman",
-        "link_app": "weetapsbit://",
-        "button_label": "Play Bit",
-        "button_colors": ["#eb5330","#c43616"],
-        "link_web": "https://itunes.apple.com/app/apple-store/id1104690668?pt=1010945&ct=previews&mt=8",
-        "banner": "http://weetaps2.s3.amazonaws.com/previews/banners/preview_banner_BIT.png",
-        "ipad": {
-            "button_close":"http://weetaps2.s3.amazonaws.com/previews/ipad/preview_close.png",
-            "background_landscape": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_background_landscape_BIT.png",            
-            "background_portrait": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_background_portrait_BIT.png",
-            "preview_icon": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_icon_BIT.png",
-            "video_thumb": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_video_BIT.png",
-            "video_url": "http://weetaps2.s3.amazonaws.com/videos/bit/preview.m3u8"                   
-        },
-        "iphone": {
-            "button_close":"http://weetaps2.s3.amazonaws.com/previews/iphone/preview_close.png",
-            "background_landscape": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_background_landscape_BIT.png",            
-            "background_portrait": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_background_portrait_BIT.png",
-            "preview_icon": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_icon_BIT.png",
-            "video_thumb": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_video_BIT.png",
-            "video_url": "http://weetaps2.s3.amazonaws.com/videos/bit/preview.m3u8"                   
-        }
+[
+  {
+    "id": "1104690668",
+    "name": "Bit - The Time Travelling Caveman",
+    "link_app": "weetapsbit://",
+    "button_label": "Play Bit",
+    "button_colors": [ "#eb5330", "#c43616" ],
+    "link_web": "https://itunes.apple.com/app/apple-store/id1104690668?pt=1010945&ct=previews&mt=8",
+    "banner": "http://weetaps2.s3.amazonaws.com/previews/banners/preview_banner_BIT.png",
+    "ipad": {
+      "button_close": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_close.png",
+      "background_landscape": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_background_landscape_BIT.png",
+      "background_portrait": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_background_portrait_BIT.png",
+      "preview_icon": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_icon_BIT.png",
+      "video_thumb": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_video_BIT.png",
+      "video_url": "http://weetaps2.s3.amazonaws.com/videos/bit/preview.m3u8"
     },
-    {
-        "id": "1040501662",
-        "name": "Wee Trains",
-        "link_app": "weetrains://",
-        "button_label": "Play Wee Trains",
-        "button_colors": ["#eb5330","#c43616"],
-        "link_web": "https://itunes.apple.com/app/apple-store/id1040501662?pt=1010945&ct=previews&mt=8",
-        "banner": "http://weetaps2.s3.amazonaws.com/previews/banners/preview_banner_WT.png",
-        "ipad": {
-            "button_close":"http://weetaps2.s3.amazonaws.com/previews/ipad/preview_close.png",
-            "background_landscape": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_background_landscape_WT.jpg",            
-            "background_portrait": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_background_portrait_WT.jpg",
-            "preview_icon": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_icon_WT.png",
-            "video_thumb": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_video_WT.jpg",
-            "video_url": "http://weetaps2.s3.amazonaws.com/videos/wt/preview.m3u8"                   
-        },
-        "iphone": {
-            "button_close":"http://weetaps2.s3.amazonaws.com/previews/iphone/preview_close.png",
-            "background_landscape": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_background_landscape_WT.jpg",            
-            "background_portrait": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_background_portrait_WT.jpg",
-            "preview_icon": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_icon_WT.png",
-            "video_thumb": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_video_WT.jpg",
-            "video_url": "http://weetaps2.s3.amazonaws.com/videos/wt/preview.m3u8"                   
-        }
-    },              
-    {
-        "id": "1035425291",
-        "name": "Wee Puzzles",
-        "link_app": "weepuzzles://",
-        "button_label": "Play Wee Puzzles",
-        "button_colors": ["#eb5330","#c43616"],
-        "link_web": "https://itunes.apple.com/app/apple-store/id1035425291?pt=1010945&ct=previews&mt=8",
-        "banner": "http://weetaps2.s3.amazonaws.com/previews/banners/preview_banner_WP.png",
-        "ipad": {
-            "button_close":"http://weetaps2.s3.amazonaws.com/previews/ipad/preview_close.png",
-            "background_landscape": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_background_landscape_WP.jpg",            
-            "background_portrait": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_background_portrait_WP.jpg",
-            "preview_icon": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_icon_WP.png",
-            "video_thumb": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_video_WP.jpg",
-            "video_url": "http://weetaps2.s3.amazonaws.com/videos/wp/preview.m3u8"                   
-        },
-        "iphone": {
-            "button_close":"http://weetaps2.s3.amazonaws.com/previews/iphone/preview_close.png",
-            "background_landscape": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_background_landscape_WP.jpg",            
-            "background_portrait": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_background_portrait_WP.jpg",
-            "preview_icon": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_icon_WP.png",
-            "video_thumb": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_video_WP.jpg",
-            "video_url": "http://weetaps2.s3.amazonaws.com/videos/wp/preview.m3u8"                   
-        }
+    "iphone": {
+      "button_close": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_close.png",
+      "background_landscape": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_background_landscape_BIT.png",
+      "background_portrait": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_background_portrait_BIT.png",
+      "preview_icon": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_icon_BIT.png",
+      "video_thumb": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_video_BIT.png",
+      "video_url": "http://weetaps2.s3.amazonaws.com/videos/bit/preview.m3u8"
+    }
+  },
+  {
+    "id": "1040501662",
+    "name": "Wee Trains",
+    "link_app": "weetrains://",
+    "button_label": "Play Wee Trains",
+    "button_colors": [ "#eb5330", "#c43616" ],
+    "link_web": "https://itunes.apple.com/app/apple-store/id1040501662?pt=1010945&ct=previews&mt=8",
+    "banner": "http://weetaps2.s3.amazonaws.com/previews/banners/preview_banner_WT.png",
+    "ipad": {
+      "button_close": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_close.png",
+      "background_landscape": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_background_landscape_WT.jpg",
+      "background_portrait": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_background_portrait_WT.jpg",
+      "preview_icon": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_icon_WT.png",
+      "video_thumb": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_video_WT.jpg",
+      "video_url": "http://weetaps2.s3.amazonaws.com/videos/wt/preview.m3u8"
     },
-    {
-        "id": "583712953",
-        "name": "Wee Subs",
-        "link_app": "weesubs://",
-        "button_label": "Play Wee Subs",
-        "button_colors": ["#eb5330","#c43616"],
-        "link_web": "https://itunes.apple.com/app/apple-store/id583712953?pt=1010945&ct=previews&mt=8",
-        "banner": "http://weetaps2.s3.amazonaws.com/previews/banners/preview_banner_WS.png",
-        "ipad": {
-            "button_close":"http://weetaps2.s3.amazonaws.com/previews/ipad/preview_close.png",
-            "background_landscape": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_background_landscape_WS.jpg",            
-            "background_portrait": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_background_portrait_WS.jpg",
-            "preview_icon": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_icon_WS.png",
-            "video_thumb": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_video_WS.jpg",
-            "video_url": "http://weetaps2.s3.amazonaws.com/videos/ws/preview_ipad.m3u8"                   
-        },
-        "iphone": {
-            "button_close":"http://weetaps2.s3.amazonaws.com/previews/iphone/preview_close.png",
-            "background_landscape": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_background_landscape_WS.jpg",            
-            "background_portrait": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_background_portrait_WS.jpg",
-            "preview_icon": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_icon_WS.png",
-            "video_thumb": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_video_WS.jpg",
-            "video_url": "http://weetaps2.s3.amazonaws.com/videos/ws/preview_iphone.m3u8"                   
-        }
-    },        
-    {
-        "id": "540828349",
-        "name": "Wee Rockets",
-        "link_app": "weerockets://",
-        "button_label": "Play Wee Rockets",
-        "button_colors": ["#eb5330","#c43616"],
-        "link_web": "https://itunes.apple.com/app/apple-store/id540828349?pt=1010945&ct=previews&mt=8",
-        "banner": "http://weetaps2.s3.amazonaws.com/previews/banners/preview_banner_WR.png",
-        "ipad": {
-            "button_close":"http://weetaps2.s3.amazonaws.com/previews/ipad/preview_close.png",
-            "background_landscape": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_background_landscape_WR.jpg",            
-            "background_portrait": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_background_portrait_WR.jpg",
-            "preview_icon": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_icon_WR.png",
-            "video_thumb": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_video_WR.jpg",
-            "video_url": "http://weetaps2.s3.amazonaws.com/videos/wr/preview_ipad.m3u8"                   
-        },
-        "iphone": {
-            "button_close":"http://weetaps2.s3.amazonaws.com/previews/iphone/preview_close.png",
-            "background_landscape": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_background_landscape_WR.jpg",            
-            "background_portrait": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_background_portrait_WR.jpg",
-            "preview_icon": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_icon_WR.png",
-            "video_thumb": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_video_WR.jpg",
-            "video_url": "http://weetaps2.s3.amazonaws.com/videos/wr/preview_iphone.m3u8"                   
-        }
+    "iphone": {
+      "button_close": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_close.png",
+      "background_landscape": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_background_landscape_WT.jpg",
+      "background_portrait": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_background_portrait_WT.jpg",
+      "preview_icon": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_icon_WT.png",
+      "video_thumb": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_video_WT.jpg",
+      "video_url": "http://weetaps2.s3.amazonaws.com/videos/wt/preview.m3u8"
+    }
+  },
+  {
+    "id": "1035425291",
+    "name": "Wee Puzzles",
+    "link_app": "weepuzzles://",
+    "button_label": "Play Wee Puzzles",
+    "button_colors": [ "#eb5330", "#c43616" ],
+    "link_web": "https://itunes.apple.com/app/apple-store/id1035425291?pt=1010945&ct=previews&mt=8",
+    "banner": "http://weetaps2.s3.amazonaws.com/previews/banners/preview_banner_WP.png",
+    "ipad": {
+      "button_close": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_close.png",
+      "background_landscape": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_background_landscape_WP.jpg",
+      "background_portrait": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_background_portrait_WP.jpg",
+      "preview_icon": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_icon_WP.png",
+      "video_thumb": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_video_WP.jpg",
+      "video_url": "http://weetaps2.s3.amazonaws.com/videos/wp/preview.m3u8"
     },
-    {
-        "id": "816488923",
-        "name": "Sleepasarus",
-        "link_app": "sleepasaurus://",
-        "button_label": "Play Sleepasarus",
-        "button_colors": ["#eb5330","#c43616"],
-        "link_web": "https://itunes.apple.com/app/apple-store/id816488923?pt=1010945&ct=previews&mt=8",
-        "banner": "http://weetaps2.s3.amazonaws.com/previews/banners/preview_banner_SL.png",
-        "ipad": {
-            "button_close":"http://weetaps2.s3.amazonaws.com/previews/ipad/preview_close.png",
-            "background_landscape": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_background_landscape_SL.jpg",            
-            "background_portrait": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_background_portrait_SL.jpg",
-            "preview_icon": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_icon_SL.png",
-            "video_thumb": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_video_SL.jpg",
-            "video_url": "http://weetaps2.s3.amazonaws.com/videos/sl/preview_ipad.m3u8"                   
-        },
-        "iphone": {
-            "button_close":"http://weetaps2.s3.amazonaws.com/previews/iphone/preview_close.png",
-            "background_landscape": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_background_landscape_SL.jpg",            
-            "background_portrait": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_background_portrait_SL.jpg",
-            "preview_icon": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_icon_SL.png",
-            "video_thumb": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_video_SL.jpg",
-            "video_url": "http://weetaps2.s3.amazonaws.com/videos/sl/preview_iphone.m3u8"                   
-        }
+    "iphone": {
+      "button_close": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_close.png",
+      "background_landscape": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_background_landscape_WP.jpg",
+      "background_portrait": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_background_portrait_WP.jpg",
+      "preview_icon": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_icon_WP.png",
+      "video_thumb": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_video_WP.jpg",
+      "video_url": "http://weetaps2.s3.amazonaws.com/videos/wp/preview.m3u8"
+    }
+  },
+  {
+    "id": "583712953",
+    "name": "Wee Subs",
+    "link_app": "weesubs://",
+    "button_label": "Play Wee Subs",
+    "button_colors": [ "#eb5330", "#c43616" ],
+    "link_web": "https://itunes.apple.com/app/apple-store/id583712953?pt=1010945&ct=previews&mt=8",
+    "banner": "http://weetaps2.s3.amazonaws.com/previews/banners/preview_banner_WS.png",
+    "ipad": {
+      "button_close": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_close.png",
+      "background_landscape": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_background_landscape_WS.jpg",
+      "background_portrait": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_background_portrait_WS.jpg",
+      "preview_icon": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_icon_WS.png",
+      "video_thumb": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_video_WS.jpg",
+      "video_url": "http://weetaps2.s3.amazonaws.com/videos/ws/preview_ipad.m3u8"
     },
-    {
-        "id": "928624034",
-        "name": "Moon Tunes",
-        "link_app": "moontunes://",
-        "button_label": "Play Moon Tunes",
-        "button_colors": ["#eb5330","#c43616"],
-        "link_web": "https://itunes.apple.com/app/apple-store/id928624034?pt=1010945&ct=previews&mt=8",
-        "banner": "http://weetaps2.s3.amazonaws.com/previews/banners/preview_banner_MT.png",
-        "ipad": {
-            "button_close":"http://weetaps2.s3.amazonaws.com/previews/ipad/preview_close.png",
-            "background_landscape": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_background_landscape_MT.jpg",            
-            "background_portrait": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_background_portrait_MT.jpg",
-            "preview_icon": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_icon_MT.png",
-            "video_thumb": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_video_MT.jpg",
-            "video_url": "http://weetaps2.s3.amazonaws.com/videos/mt/preview.m3u8"                   
-        },
-        "iphone": {
-            "button_close":"http://weetaps2.s3.amazonaws.com/previews/iphone/preview_close.png",
-            "background_landscape": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_background_landscape_MT.jpg",            
-            "background_portrait": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_background_portrait_MT.jpg",
-            "preview_icon": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_icon_MT.png",
-            "video_thumb": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_video_MT.jpg",
-            "video_url": "http://weetaps2.s3.amazonaws.com/videos/mt/preview.m3u8"    
-        }
-        
+    "iphone": {
+      "button_close": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_close.png",
+      "background_landscape": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_background_landscape_WS.jpg",
+      "background_portrait": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_background_portrait_WS.jpg",
+      "preview_icon": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_icon_WS.png",
+      "video_thumb": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_video_WS.jpg",
+      "video_url": "http://weetaps2.s3.amazonaws.com/videos/ws/preview_iphone.m3u8"
+    }
+  },
+  {
+    "id": "540828349",
+    "name": "Wee Rockets",
+    "link_app": "weerockets://",
+    "button_label": "Play Wee Rockets",
+    "button_colors": [ "#eb5330", "#c43616" ],
+    "link_web": "https://itunes.apple.com/app/apple-store/id540828349?pt=1010945&ct=previews&mt=8",
+    "banner": "http://weetaps2.s3.amazonaws.com/previews/banners/preview_banner_WR.png",
+    "ipad": {
+      "button_close": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_close.png",
+      "background_landscape": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_background_landscape_WR.jpg",
+      "background_portrait": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_background_portrait_WR.jpg",
+      "preview_icon": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_icon_WR.png",
+      "video_thumb": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_video_WR.jpg",
+      "video_url": "http://weetaps2.s3.amazonaws.com/videos/wr/preview_ipad.m3u8"
     },
-    {
-        "id": "1051667984",
-        "name": "Wee Christmas Puzzles",
-        "link_app": "weepuzzleschristmas://",
-        "button_label": "Play Wee Christmas",
-        "button_colors": ["#eb5330","#c43616"],
-        "link_web": "https://itunes.apple.com/app/wee-christmas-puzzles/id1051667984?pt=1010945&&ct=moreapps&mt=8",
-        "banner": "http://weetaps2.s3.amazonaws.com/previews/banners/preview_banner_WPC.png",
-        "ipad": {
-            "button_close":"http://weetaps2.s3.amazonaws.com/previews/ipad/preview_close.png",
-            "background_landscape": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_background_landscape_WPC.jpg",            
-            "background_portrait": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_background_portrait_WPC.jpg",
-            "preview_icon": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_icon_WPC.png",
-            "video_thumb": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_video_WPC.jpg",
-            "video_url": "http://weetaps2.s3.amazonaws.com/videos/wpc/preview.m3u8"                   
-        },
-        "iphone": {
-            "button_close":"http://weetaps2.s3.amazonaws.com/previews/iphone/preview_close.png",
-            "background_landscape": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_background_landscape_WPC.jpg",            
-            "background_portrait": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_background_portrait_WPC.jpg",
-            "preview_icon": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_icon_WPC.png",
-            "video_thumb": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_video_WPC.jpg",
-            "video_url": "http://weetaps2.s3.amazonaws.com/videos/wpc/preview.m3u8"                   
-        }
+    "iphone": {
+      "button_close": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_close.png",
+      "background_landscape": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_background_landscape_WR.jpg",
+      "background_portrait": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_background_portrait_WR.jpg",
+      "preview_icon": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_icon_WR.png",
+      "video_thumb": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_video_WR.jpg",
+      "video_url": "http://weetaps2.s3.amazonaws.com/videos/wr/preview_iphone.m3u8"
+    }
+  },
+  {
+    "id": "816488923",
+    "name": "Sleepasarus",
+    "link_app": "sleepasaurus://",
+    "button_label": "Play Sleepasarus",
+    "button_colors": [ "#eb5330", "#c43616" ],
+    "link_web": "https://itunes.apple.com/app/apple-store/id816488923?pt=1010945&ct=previews&mt=8",
+    "banner": "http://weetaps2.s3.amazonaws.com/previews/banners/preview_banner_SL.png",
+    "ipad": {
+      "button_close": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_close.png",
+      "background_landscape": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_background_landscape_SL.jpg",
+      "background_portrait": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_background_portrait_SL.jpg",
+      "preview_icon": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_icon_SL.png",
+      "video_thumb": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_video_SL.jpg",
+      "video_url": "http://weetaps2.s3.amazonaws.com/videos/sl/preview_ipad.m3u8"
     },
-    {
-        "id": "1041372232",
-        "name": "Wee Monster Puzzles",
-        "link_app": "weepuzzleshalloween://",
-        "button_label": "Play Wee Halloween",
-        "button_colors": ["#eb5330","#c43616"],
-        "link_web": "https://itunes.apple.com/app/wee-monster-puzzles/id1041372232?pt=1010945&ct=previews&mt=8",
-        "banner": "http://weetaps2.s3.amazonaws.com/previews/banners/preview_banner_WPM.png",
-        "ipad": {
-            "button_close":"http://weetaps2.s3.amazonaws.com/previews/ipad/preview_close.png",
-            "background_landscape": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_background_landscape_WPM.jpg",            
-            "background_portrait": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_background_portrait_WPM.jpg",
-            "preview_icon": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_icon_WPM.png",
-            "video_thumb": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_video_WPH.jpg",
-            "video_url": "http://weetaps2.s3.amazonaws.com/videos/wpm/preview.m3u8"                   
-        },
-        "iphone": {
-            "button_close":"http://weetaps2.s3.amazonaws.com/previews/iphone/preview_close.png",
-            "background_landscape": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_background_landscape_WPM.jpg",            
-            "background_portrait": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_background_portrait_WPM.jpg",
-            "preview_icon": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_icon_WPM.png",
-            "video_thumb": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_video_WPH.jpg",
-            "video_url": "http://weetaps2.s3.amazonaws.com/videos/wpm/preview.m3u8"                   
-        }
-    }      
+    "iphone": {
+      "button_close": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_close.png",
+      "background_landscape": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_background_landscape_SL.jpg",
+      "background_portrait": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_background_portrait_SL.jpg",
+      "preview_icon": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_icon_SL.png",
+      "video_thumb": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_video_SL.jpg",
+      "video_url": "http://weetaps2.s3.amazonaws.com/videos/sl/preview_iphone.m3u8"
+    }
+  },
+  {
+    "id": "928624034",
+    "name": "Moon Tunes",
+    "link_app": "moontunes://",
+    "button_label": "Play Moon Tunes",
+    "button_colors": [ "#eb5330", "#c43616" ],
+    "link_web": "https://itunes.apple.com/app/apple-store/id928624034?pt=1010945&ct=previews&mt=8",
+    "banner": "http://weetaps2.s3.amazonaws.com/previews/banners/preview_banner_MT.png",
+    "ipad": {
+      "button_close": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_close.png",
+      "background_landscape": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_background_landscape_MT.jpg",
+      "background_portrait": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_background_portrait_MT.jpg",
+      "preview_icon": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_icon_MT.png",
+      "video_thumb": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_video_MT.jpg",
+      "video_url": "http://weetaps2.s3.amazonaws.com/videos/mt/preview.m3u8"
+    },
+    "iphone": {
+      "button_close": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_close.png",
+      "background_landscape": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_background_landscape_MT.jpg",
+      "background_portrait": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_background_portrait_MT.jpg",
+      "preview_icon": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_icon_MT.png",
+      "video_thumb": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_video_MT.jpg",
+      "video_url": "http://weetaps2.s3.amazonaws.com/videos/mt/preview.m3u8"
+    }
+  },
+  {
+    "id": "1051667984",
+    "name": "Wee Christmas Puzzles",
+    "link_app": "weepuzzleschristmas://",
+    "button_label": "Play Wee Christmas",
+    "button_colors": [ "#eb5330", "#c43616" ],
+    "link_web": "https://itunes.apple.com/app/wee-christmas-puzzles/id1051667984?pt=1010945&&ct=moreapps&mt=8",
+    "banner": "http://weetaps2.s3.amazonaws.com/previews/banners/preview_banner_WPC.png",
+    "ipad": {
+      "button_close": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_close.png",
+      "background_landscape": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_background_landscape_WPC.jpg",
+      "background_portrait": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_background_portrait_WPC.jpg",
+      "preview_icon": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_icon_WPC.png",
+      "video_thumb": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_video_WPC.jpg",
+      "video_url": "http://weetaps2.s3.amazonaws.com/videos/wpc/preview.m3u8"
+    },
+    "iphone": {
+      "button_close": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_close.png",
+      "background_landscape": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_background_landscape_WPC.jpg",
+      "background_portrait": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_background_portrait_WPC.jpg",
+      "preview_icon": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_icon_WPC.png",
+      "video_thumb": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_video_WPC.jpg",
+      "video_url": "http://weetaps2.s3.amazonaws.com/videos/wpc/preview.m3u8"
+    }
+  },
+  {
+    "id": "1041372232",
+    "name": "Wee Monster Puzzles",
+    "link_app": "weepuzzleshalloween://",
+    "button_label": "Play Wee Halloween",
+    "button_colors": [ "#eb5330", "#c43616" ],
+    "link_web": "https://itunes.apple.com/app/wee-monster-puzzles/id1041372232?pt=1010945&ct=previews&mt=8",
+    "banner": "http://weetaps2.s3.amazonaws.com/previews/banners/preview_banner_WPM.png",
+    "ipad": {
+      "button_close": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_close.png",
+      "background_landscape": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_background_landscape_WPM.jpg",
+      "background_portrait": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_background_portrait_WPM.jpg",
+      "preview_icon": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_icon_WPM.png",
+      "video_thumb": "http://weetaps2.s3.amazonaws.com/previews/ipad/preview_video_WPH.jpg",
+      "video_url": "http://weetaps2.s3.amazonaws.com/videos/wpm/preview.m3u8"
+    },
+    "iphone": {
+      "button_close": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_close.png",
+      "background_landscape": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_background_landscape_WPM.jpg",
+      "background_portrait": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_background_portrait_WPM.jpg",
+      "preview_icon": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_icon_WPM.png",
+      "video_thumb": "http://weetaps2.s3.amazonaws.com/previews/iphone/preview_video_WPH.jpg",
+      "video_url": "http://weetaps2.s3.amazonaws.com/videos/wpm/preview.m3u8"
+    }
+  }
 ]

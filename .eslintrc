@@ -1,3 +1,28 @@
 {
-    "extends": "rallycoding"
+  "root": true,
+  "env": {
+    "browser": true,
+    "es6": true,
+    "node": true,
+    "jest": true
+  },
+  "extends": "react-app",
+  "globals": {
+    "__DEV__": true
+  },
+  "rules": {
+    "comma-dangle": [
+      "error",
+      {
+        "arrays": "always-multiline",
+        "objects": "always-multiline",
+        "imports": "never",
+        "exports": "never",
+        "functions": "ignore"
+      }
+    ],
+    "padded-blocks": [ "error", "never" ],
+    "no-console": "warn",
+    "semi": [ "error", "always" ]
+  }
 }

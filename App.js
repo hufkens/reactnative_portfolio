@@ -24,10 +24,9 @@ export default class App extends Component {
   }
 }
 
-const RootStack = createStackNavigator(
+const MainStack = createStackNavigator(
   {
-    Home: AppList,
-    Details: AppDetail
+    Home: AppList
   },
   {
     initialRouteName: 'Home',
@@ -41,5 +40,20 @@ const RootStack = createStackNavigator(
           fontWeight: 'bold'
       }
     }
-  }  
+  }
+);
+
+const RootStack = createStackNavigator(
+  {
+    Main: {
+      screen: MainStack,
+    },
+    Details: {
+      screen: AppDetail,
+    },
+  },
+  {
+    mode: 'modal',
+    headerMode: 'none',
+  }
 );
